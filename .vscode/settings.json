@@ -1,0 +1,39 @@
+{
+    // Set the default
+    "editor.formatOnSave": false,
+    // Enable per-language
+    "[javascript]": {
+        "editor.formatOnSave": true
+    },
+    "[typescript]": {
+        "editor.formatOnSave": true
+    },
+    "[json]": {
+        "editor.formatOnSave": true
+    },
+    "[html]": {
+        "editor.formatOnSave": true
+    },
+    "[css]": {
+        "editor.formatOnSave": true
+    },
+    "[jsx]": {
+        "editor.formatOnSave": true
+    },
+    "[ts]": {
+        "editor.formatOnSave": true
+    },
+    "[tsx]": {
+        "editor.formatOnSave": true
+    },
+    "[ruby]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "files.associations": {
+        "*.jsx": "javascript",
+        "*.tsx": "javascript",
+        "*.ts": "javascript"
+    },
+
+}
