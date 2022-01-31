@@ -1,10 +1,16 @@
 # Tennis-app-frontend
 
-##  As state management I have created
+##  As form state management I have created
 the "formatron" <br />
 library/components
 <br /> You can find the file in:<br/>
 #### /client/src/components/formatron.tsx
+
+## URLs
+#### for registration
+``` http://localhost:3000/ ```
+#### to see the members
+``` http://localhost:3000/members ```
 
 ## Run 
 Navigate to the client directory
