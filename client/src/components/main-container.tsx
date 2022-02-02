@@ -15,10 +15,7 @@ export const MainContainer = ({ title }: CardProps) => (
     <Logo />
     <Router>
       <Routes>
-        <Route
-          path="/"
-          element={<FormRegisterFormatron environment="testing" />}
-        />
+        <Route path="/" element={<FormRegisterFormatron />} />
       </Routes>
       <Routes>
         <Route path="/data-consent" element={<DataConsent />} />
